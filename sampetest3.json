@@ -1,0 +1,4 @@
+    <init-param>
+          <param-name>cachePackageTagsStore</param-name>
+      <param-value>200</param-value>
+        </init-param>
